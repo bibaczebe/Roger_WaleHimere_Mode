@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "clans": [
+    {
+      "id":       "DRW",
+      "name":     "DRWale",
+      "tag":      "DRW",
+      "colorHex": "#3B82F6"
+    },
+    {
+      "id":       "SMR",
+      "name":     "Smrody",
+      "tag":      "SMR",
+      "colorHex": "#EF4444"
+    },
+    {
+      "id":       "TRL",
+      "name":     "Trole",
+      "tag":      "TRL",
+      "colorHex": "#22C55E"
+    }
+  ],
+  "members": [
+    { "steamId64": "76561198343378545", "clanId": "DRW", "rank": "jarl"   },
+    { "steamId64": "76561198349595799", "clanId": "SMR", "rank": "member" }
+  ]
+}
