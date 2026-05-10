@@ -25,26 +25,26 @@
 [Info   :Jotunn.Main] Initializing CommandManager
 [Info   :RodgerClans] Console command registered: /t
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 05/10/2026 16:16:58: Using environment steamid 892970
+[Info   : Unity Log] 05/10/2026 16:36:51: Using environment steamid 892970
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Using steam APPID:892970
+[Info   : Unity Log] 05/10/2026 16:36:51: Using steam APPID:892970
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 05/10/2026 16:36:51: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+[Info   : Unity Log] 05/10/2026 16:36:51: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Initialized platform!
+[Info   : Unity Log] 05/10/2026 16:36:51: Initialized platform!
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+[Info   : Unity Log] 05/10/2026 16:36:51: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
 
-[Info   : Unity Log] 05/10/2026 16:16:58: All files in local storage save data:
+[Info   : Unity Log] 05/10/2026 16:36:51: All files in local storage save data:
 C:/Users/bibac/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
 C:/Users/bibac/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
 C:/Users/bibac/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
-C:/Users/bibac/AppData/LocalLow/IronGate/Valheim\Player-prev.log (7231)
+C:/Users/bibac/AppData/LocalLow/IronGate/Valheim\Player-prev.log (27506)
 C:/Users/bibac/AppData/LocalLow/IronGate/Valheim\Player.log (3319)
 
-[Info   : Unity Log] 05/10/2026 16:16:58: All files in platform save data:
+[Info   : Unity Log] 05/10/2026 16:36:51: All files in platform save data:
 characters/karol premeire.fch (47948)
 characters/karol premeire.fch.old (46347)
 characters/karol premeire_backup_20230627-234101.fch (46347)
@@ -60,223 +60,294 @@ serverlist/favorite.old (103)
 serverlist/recent (150)
 serverlist/recent.old (150)
 worlds/PushinP.db (2229764)
-characters/hanusiak.fch (27852)
+characters/hanusiak.fch (28053)
 characters/hanusiak_backup_auto-20260508190001.fch (804)
 characters/hanusiak.fch.old (27852)
 worlds/PushinP.fwl (48)
 worlds/ModTest.fwl (48)
 worlds/ModTest_backup_auto-20260509164114.fwl (48)
-worlds/ModTest.db (976762)
+worlds/ModTest.db (1095082)
 characters/hanusiak_backup_auto-20260509183543.fch (27441)
 characters/hanusiak_backup_auto-20260509223722.fch (27448)
 worlds/ModTest_backup_auto-20260509233722.fwl (48)
 worlds/ModTest_backup_auto-20260509233722.db (976718)
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Initializing preferences provider...
+[Info   : Unity Log] 05/10/2026 16:36:51: Initializing preferences provider...
 
-[Info   : Unity Log] 05/10/2026 16:16:58: No preference provider available for this platform!
+[Info   : Unity Log] 05/10/2026 16:36:51: No preference provider available for this platform!
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Set background loading budget to Low
+[Info   : Unity Log] 05/10/2026 16:36:51: Set background loading budget to Low
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Loading first scene!
+[Info   : Unity Log] 05/10/2026 16:36:51: Loading first scene!
 
-[Info   : Unity Log] 05/10/2026 16:16:58: Preferences initialized! Activating first scene!
+[Info   : Unity Log] 05/10/2026 16:36:51: Preferences initialized! Activating first scene!
 
-[Info   : Unity Log] 05/10/2026 16:16:58: 
+[Info   : Unity Log] 05/10/2026 16:36:52: 
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+[Info   : Unity Log] 05/10/2026 16:36:52: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Set background loading budget to Normal
+[Info   : Unity Log] 05/10/2026 16:36:52: Set background loading budget to Normal
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #3 - 'localization_witch' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #4 - 'localization_ashlands' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #5 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #5 - 'localization_captions' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #0 - 'localization' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #1 - 'localization_extra' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #2 - 'heightmap_message' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #3 - 'localization_witch' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #3 - 'localization_witch' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #4 - 'localization_ashlands' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #5 - 'localization_captions' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #5 - 'localization_captions' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:16:59: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+[Info   : Unity Log] 05/10/2026 16:36:52: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
 
-[Info   : Unity Log] 05/10/2026 16:17:03: Set background loading budget to High
+[Info   : Unity Log] 05/10/2026 16:36:56: Set background loading budget to High
 
-[Info   : Unity Log] 05/10/2026 16:17:03: GPU Device: 10DE:2882 (NVIDIA)
+[Info   : Unity Log] 05/10/2026 16:36:56: GPU Device: 10DE:2882 (NVIDIA)
 
-[Info   : Unity Log] 05/10/2026 16:17:05: Set background loading budget to Low
+[Info   : Unity Log] 05/10/2026 16:36:57: Set background loading budget to Low
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Warning: Unity Log] 05/10/2026 16:17:05: Missing audio clip in music respawn
+[Warning: Unity Log] 05/10/2026 16:36:57: Missing audio clip in music respawn
 
-[Info   : Unity Log] 05/10/2026 16:17:05: Steam initialized, persona:Golem in the pocket
+[Info   : Unity Log] 05/10/2026 16:36:57: Steam initialized, persona:Golem in the pocket
 
-[Info   : Unity Log] 05/10/2026 16:17:05: Valheim version: 0.221.12 (network version 36)
+[Info   : Unity Log] 05/10/2026 16:36:57: Valheim version: 0.221.12 (network version 36)
 
-[Info   : Unity Log] 05/10/2026 16:17:05: Worldgenerator version setup:2
-
-[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 05/10/2026 16:17:05: Render threading mode:LegacyJobified
-
-[Info   : Unity Log] 05/10/2026 16:17:05: Checking for installed DLCs
-
-[Info   : Unity Log] 05/10/2026 16:17:05: DLC:beta installed:False
-
-[Info   : Unity Log] 05/10/2026 16:17:05: Sending PlayFab login request (attempt 1)
-
-[Info   : Unity Log] 05/10/2026 16:17:05: Starting music menu
-
-[Info   : Unity Log] 05/10/2026 16:17:06: Session auth respons callback
-
-[Info   : Unity Log] 05/10/2026 16:17:07: Logged in PlayFab user via Steam auth session ticket
-
-[Info   : Unity Log] 05/10/2026 16:17:07: PlayFab local entity ID is E152D42807214D1D
-
-[Info   : Unity Log] 05/10/2026 16:17:07: Released session ticket
-
-[Info   : Unity Log] 05/10/2026 16:17:13: show character selection
-
-[Info   : Unity Log] 05/10/2026 16:17:14: OnCharacterStart
-
-[Info   : Unity Log] 05/10/2026 16:17:16: Loading main scene
-
-[Info   : Unity Log] 05/10/2026 16:17:17: Audioman already exist, destroying self
-
-[Info   : Unity Log] 05/10/2026 16:17:17: Steam initialized, persona:Golem in the pocket
+[Info   : Unity Log] 05/10/2026 16:36:57: Worldgenerator version setup:2
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 05/10/2026 16:17:17: Loading player profile hanusiak
+[Info   : Unity Log] 05/10/2026 16:36:57: Render threading mode:LegacyJobified
 
-[Info   : Unity Log] 05/10/2026 16:17:17: isModded: True
+[Info   : Unity Log] 05/10/2026 16:36:57: Checking for installed DLCs
 
-[Info   : Unity Log] 05/10/2026 16:17:17: Zonesystem Awake 999
+[Info   : Unity Log] 05/10/2026 16:36:57: DLC:beta installed:False
 
-[Info   : Unity Log] 05/10/2026 16:17:17: DungeonDB Awake 999
+[Info   : Unity Log] 05/10/2026 16:36:58: Sending PlayFab login request (attempt 1)
 
-[Info   : Unity Log] 05/10/2026 16:17:17: Steam initialized, persona:Golem in the pocket
+[Info   : Unity Log] 05/10/2026 16:36:58: Starting music menu
 
-[Info   : Unity Log] 05/10/2026 16:17:17: Worldgenerator version setup:2
+[Info   : Unity Log] 05/10/2026 16:36:58: Session auth respons callback
 
-[Info   : Unity Log] 05/10/2026 16:17:19: Checking for installed DLCs
+[Info   : Unity Log] 05/10/2026 16:36:59: Logged in PlayFab user via Steam auth session ticket
 
-[Info   : Unity Log] 05/10/2026 16:17:19: DLC:beta installed:False
+[Info   : Unity Log] 05/10/2026 16:36:59: PlayFab local entity ID is E152D42807214D1D
+
+[Info   : Unity Log] 05/10/2026 16:36:59: Released session ticket
+
+[Info   : Unity Log] 05/10/2026 16:37:01: show character selection
+
+[Info   : Unity Log] 05/10/2026 16:37:02: OnCharacterStart
+
+[Info   : Unity Log] 05/10/2026 16:37:08: Loading main scene
+
+[Info   : Unity Log] 05/10/2026 16:37:09: Audioman already exist, destroying self
+
+[Info   : Unity Log] 05/10/2026 16:37:09: Steam initialized, persona:Golem in the pocket
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 05/10/2026 16:37:09: Loading player profile hanusiak
+
+[Info   : Unity Log] 05/10/2026 16:37:09: isModded: True
+
+[Info   : Unity Log] 05/10/2026 16:37:09: Zonesystem Awake 921
+
+[Info   : Unity Log] 05/10/2026 16:37:09: DungeonDB Awake 921
+
+[Info   : Unity Log] 05/10/2026 16:37:09: Steam initialized, persona:Golem in the pocket
+
+[Info   : Unity Log] 05/10/2026 16:37:09: Worldgenerator version setup:2
+
+[Info   : Unity Log] 05/10/2026 16:37:11: Checking for installed DLCs
+
+[Info   : Unity Log] 05/10/2026 16:37:11: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.NetworkManager] Registering 4 custom RPCs
-[Info   : Unity Log] 05/10/2026 16:17:20: Zonesystem Start 999
+[Info   : Unity Log] 05/10/2026 16:37:11: Zonesystem Start 921
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 05/10/2026 16:37:11: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 05/10/2026 16:37:11: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+[Info   : Unity Log] 05/10/2026 16:37:11: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+[Info   : Unity Log] 05/10/2026 16:37:11: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+[Info   : Unity Log] 05/10/2026 16:37:11: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
 
-[Info   : Unity Log] 05/10/2026 16:17:20: DungeonDB Start 999
+[Info   : Unity Log] 05/10/2026 16:37:11: DungeonDB Start 921
 
-[Info   : Unity Log] 05/10/2026 16:17:20: ZRpc timeout set to 30s 
+[Info   : Unity Log] 05/10/2026 16:37:11: ZRpc timeout set to 30s 
 
-[Info   : Unity Log] 05/10/2026 16:17:20: ZNET START
+[Info   : Unity Log] 05/10/2026 16:37:11: ZNET START
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Load world: ModTest (ModTest)
+[Info   : Unity Log] 05/10/2026 16:37:11: Load world: ModTest (ModTest)
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Loading 15767 zdos, my sessionID: 169047118, data version: 37
+[Info   : Unity Log] 05/10/2026 16:37:11: Loading 18614 zdos, my sessionID: 1797505116, data version: 37
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Loading in ZDOs
+[Info   : Unity Log] 05/10/2026 16:37:11: Loading in ZDOs
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Adding to Dictionary
+[Info   : Unity Log] 05/10/2026 16:37:11: Adding to Dictionary
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Adding to Sectors
+[Info   : Unity Log] 05/10/2026 16:37:12: Adding to Sectors
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Connecting Portals, Spawners & ZSyncTransforms
+[Info   : Unity Log] 05/10/2026 16:37:12: Connecting Portals, Spawners & ZSyncTransforms
 
 [Info   : Unity Log] ConnectSpawners => Connected 6 spawners and 0 'done' spawners.
-[Info   : Unity Log] 05/10/2026 16:17:20: Loaded 11465 locations
+[Info   : Unity Log] 05/10/2026 16:37:12: Loaded 11465 locations
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Unloading unused assets
+[Info   : Unity Log] 05/10/2026 16:37:12: Unloading unused assets
 
-[Info   : Unity Log] 05/10/2026 16:17:20: Starting respawn
+[Info   : Unity Log] 05/10/2026 16:37:12: Registering lobby
 
-[Info   : Unity Log] 05/10/2026 16:17:21: Loading minimap textures done [364ms]
+[Info   : Unity Log] 05/10/2026 16:37:12: New session server "ModTest" that has join code , now 1 player(s)
 
-[Info   : Unity Log] 05/10/2026 16:17:21: Minimap: unpacking compressed mapData 8240 => 8388658 bytes
+[Info   : Unity Log] 05/10/2026 16:37:12: Register PlayFab server "ModTest"
+
+[Info   : Unity Log] 05/10/2026 16:37:12: Server 'ModTest' begin PlayFab create and join network for server 
+
+[Info   : Unity Log] 05/10/2026 16:37:12: Semaphore type: SemaphoreSlim
+
+[Info   : Unity Log] 05/10/2026 16:37:12: Opened PlayFab server
+
+[Info   : Unity Log] 05/10/2026 16:37:12: Starting respawn
+
+[Info   : Unity Log] 05/10/2026 16:37:12: Loading minimap textures done [331ms]
+
+[Info   : Unity Log] 05/10/2026 16:37:12: Minimap: unpacking compressed mapData 8240 => 8388658 bytes
 
 [Info   :RodgerClans] ZNet ready and IsServer — running ServerBootstrap.
 [Info   :RodgerClans] Loaded 3 clans, 2 members from clans.json.
-[Info   : Unity Log] 05/10/2026 16:17:21: tip:$loadscreen_tip22
+[Info   : Unity Log] 05/10/2026 16:37:12: tip:$loadscreen_tip25
 
-[Info   : Unity Log] 05/10/2026 16:17:29: Spawned after 8,019993
+[Info   : Unity Log] 05/10/2026 16:37:12: Lobby was created k_EResultOK  109775244580386899  error:False
 
-[Warning: Unity Log] 05/10/2026 16:17:29: Character ID for player ([Hanusiak, 0:0], [Golem in the pocket, 0:0], Golem in the pocket) was 0:0. Skipping.
+[Info   : Unity Log] 05/10/2026 16:37:12: Got requested lobby data
 
-[Info   : Unity Log] 05/10/2026 16:17:29: Skipping unloading unused assets
+[Info   : Unity Log] 05/10/2026 16:37:13: Got requested lobby data
 
-[Info   : Unity Log] 05/10/2026 16:17:29: Minimap: Adding unique location (62.69, 72.62, 3.73)
+[Info   : Unity Log] 05/10/2026 16:37:14: Joined PlayFab Party network with ID "67171549-39c8-40b0-8e6e-d480c8ad54ce|AwBuBOaBfHyxMFhwgkazhCSC1I4cKFdlc3RFdXJvcGUAAAAAAAAAAAAAAnlhtFmwm2+5xoip1gMQZO0ZPAJr9HsbOYa1hNGP3Va8FU9kbnMtaXIwLTgxZTUtZDhjMmQ3M2ItODVlZS00ODIyLTg1YTQtMjYwYTQyOTkxYTk4Lndlc3RldXJvcGUuY2xvdWRhcHAuYXp1cmUuY29t"
 
-[Info   :RodgerClans] /t routed: sender 76561198349595799 (SMR) -> 1 recipient(s).
-[Info   : Unity Log] 05/10/2026 16:18:03: Activating default element Continue
+[Info   : Unity Log] This is the serverIP used to register the server: 
+[Info   : Unity Log] 05/10/2026 16:37:14: Created PlayFab lobby with ID "b7fe7664-619d-44ae-8283-70ecd12c4b8d.r-20260323", ConnectionString "cv2:b7fe7664-619d-44ae-8283-70ecd12c4b8d.r-20260323|451107|kv1:H9fsMPm/S3c9BSqLniiTss52pIblpq2KS3dZ/+VTsgs=" and owned by "E152D42807214D1D"
 
-[Info   : Unity Log] 05/10/2026 16:18:04: Activating default element Continue
+[Info   : Unity Log] 05/10/2026 16:37:14: Session "ModTest" registered with join code 304427
 
-[Info   : Unity Log] 05/10/2026 16:18:05: Available space to current user: 47527084032. Saving is blocked if below: 2009228 bytes. Warnings are given if below: 4018456
+[Info   : Unity Log] 05/10/2026 16:37:14: Retry join-code check 99
 
-[Info   : Unity Log] 05/10/2026 16:18:05: Game - OnApplicationQuit
+[Info   : Unity Log] 05/10/2026 16:37:16: Session "ModTest" with join code 304427 is active with 1 player(s)
 
-[Info   : Unity Log] 05/10/2026 16:18:05: Available space to current user: 47527084032. Saving is blocked if below: 2009228 bytes. Warnings are given if below: 4018456
+[Info   : Unity Log] 05/10/2026 16:37:20: Spawned after 8,019993
 
-[Info   : Unity Log] 05/10/2026 16:18:05: Shutting down
+[Warning: Unity Log] 05/10/2026 16:37:20: Character ID for player ([Hanusiak, 0:0], [Golem in the pocket, 0:0], Golem in the pocket) was 0:0. Skipping.
 
-[Info   : Unity Log] 05/10/2026 16:18:05: Minimap: compressed mapData 8388658 => 8240 bytes
+[Info   : Unity Log] 05/10/2026 16:37:20: Skipping unloading unused assets
 
-[Info   : Unity Log] 05/10/2026 16:18:05: Cloud Save: 27852 bytes. /characters/hanusiak.fch.new
+[Info   : Unity Log] 05/10/2026 16:37:20: Minimap: Adding unique location (62.69, 72.62, 3.73)
 
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (27852 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (27852 bytes)
-[Info   : Unity Log] Steam writing file chunks 1 / 1, (27852 bytes)
-[Info   : Unity Log] 05/10/2026 16:18:06: Considering autobackup. World time: 42,65999, short time: 7200, long time: 43200, backup count: 4
+[Info   : Unity Log] 05/10/2026 16:37:23: Starting music meadows
 
-[Info   : Unity Log] 05/10/2026 16:18:06: Skipping backup. World session not long enough.
+[Info   : Unity Log] 05/10/2026 16:37:23: Resumed music meadows at 0
 
-[Info   : Unity Log] 05/10/2026 16:18:06: ZNet Shutdown
+[Info   : Unity Log] 05/10/2026 16:37:38: Spawned Greyling x 1
 
-[Info   : Unity Log] 05/10/2026 16:18:06: PrepareSave: clone done in 2ms
+[Info   : Unity Log] 05/10/2026 16:37:41: PlayFab listen socket child connected to remote player 4D3DA6AFC839E5E0
 
-[Info   : Unity Log] 05/10/2026 16:18:06: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+[Info   : Unity Log] 05/10/2026 16:37:41: Player joined server "ModTest" that has join code 304427, now 2 player(s)
 
-[Info   : Unity Log] 05/10/2026 16:18:06: Unloading unused assets
+[Info   : Unity Log] 05/10/2026 16:37:41: Muted PlayFab remote player 4D3DA6AFC839E5E0
 
-[Info   : Unity Log] 05/10/2026 16:18:06: Sending disconnect msg
+[Info   : Unity Log] 05/10/2026 16:37:41: PlayFab socket with remote ID playfab/4D3DA6AFC839E5E0 received local Platform ID Steam_76561198343378545
 
-[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-[Info   : Unity Log] 05/10/2026 16:18:06: Stopping build thread
+[Info   : Unity Log] 05/10/2026 16:37:41: ZRpc timeout set to 90s 
 
-[Info   : Unity Log] 05/10/2026 16:18:08: Steam manager on destroy
+[Info   : Unity Log] 05/10/2026 16:37:41: Got handshake from client playfab/4D3DA6AFC839E5E0
 
-[Warning: Unity Log] 05/10/2026 16:18:08: Local player destroyed
+[Info   : Unity Log] 05/10/2026 16:37:43: Network version check, their:36, mine:36
 
-[Info   : Unity Log] 05/10/2026 16:18:08: ZNet OnDestroy
+[Info   : Unity Log] 05/10/2026 16:37:43: Server: New peer connected,sending global keys
 
-[Info   : Unity Log] 05/10/2026 16:18:08: Net scene destroyed
+[Info   :Jotunn.Managers.SynchronizationManager+<SynchronizeInitialData>d__44] Sending initial data to peer #1652803858
+[Info   :RodgerClans] Sent RegistrySync to peer 1652803858 (Modtest): 3 clans, 2 members.
+[Info   : Unity Log] 05/10/2026 16:37:54: Queue unlock msg:$msg_newitem:$item_mushroomcommon
+
+[Info   : Unity Log] 05/10/2026 16:38:01: Got character ZDOID from Modtest : 1652803858:1
+
+[Info   : Unity Log] 05/10/2026 16:38:01: Im still nto the owner
+
+[Info   : Unity Log] 05/10/2026 16:38:01: Im finally the owner
+
+[Info   : Unity Log] 05/10/2026 16:38:14: Setting selected recipe 0
+
+[Info   : Unity Log] 05/10/2026 16:38:45: Force generating hmap (192.00, 0.00, 128.00)
+
+[Info   : Unity Log] 05/10/2026 16:38:45: Force generating hmap (256.00, 0.00, 128.00)
+
+[Info   : Unity Log] 05/10/2026 16:39:10: Setting selected recipe 0
+
+[Info   : Unity Log] 05/10/2026 16:39:12: Setting selected recipe 0
+
+[Info   : Unity Log] 05/10/2026 16:39:45: Activating default element Continue
+
+[Info   : Unity Log] 05/10/2026 16:39:46: Available space to current user: 47788961792. Saving is blocked if below: 2246270 bytes. Warnings are given if below: 4492540
+
+[Info   : Unity Log] 05/10/2026 16:39:46: Game - OnApplicationQuit
+
+[Info   : Unity Log] 05/10/2026 16:39:46: Available space to current user: 47788961792. Saving is blocked if below: 2246270 bytes. Warnings are given if below: 4492540
+
+[Info   : Unity Log] 05/10/2026 16:39:46: Shutting down
+
+[Info   : Unity Log] 05/10/2026 16:39:46: Minimap: compressed mapData 8388658 => 8240 bytes
+
+[Info   : Unity Log] 05/10/2026 16:39:46: Cloud Save: 28163 bytes. /characters/hanusiak.fch.new
+
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (28163 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (28053 bytes)
+[Info   : Unity Log] Steam writing file chunks 1 / 1, (28163 bytes)
+[Info   : Unity Log] 05/10/2026 16:39:47: Considering autobackup. World time: 153,7799, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/10/2026 16:39:47: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 05/10/2026 16:39:47: ZNet Shutdown
+
+[Info   : Unity Log] 05/10/2026 16:39:47: PrepareSave: clone done in 3ms
+
+[Info   : Unity Log] 05/10/2026 16:39:47: PrepareSave: ZDOExtraData.PrepareSave done in 15 ms
+
+[Info   : Unity Log] 05/10/2026 16:39:47: Unloading unused assets
+
+[Info   : Unity Log] 05/10/2026 16:39:47: Sending disconnect msg
+
+[Info   : Unity Log] 05/10/2026 16:39:47: Sent to playfab/4D3DA6AFC839E5E0
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Active
+[Info   : Unity Log] 05/10/2026 16:39:47: Unregister PlayFab server "ModTest" and leaving network "67171549-39c8-40b0-8e6e-d480c8ad54ce|AwBuBOaBfHyxMFhwgkazhCSC1I4cKFdlc3RFdXJvcGUAAAAAAAAAAAAAAnlhtFmwm2+5xoip1gMQZO0ZPAJr9HsbOYa1hNGP3Va8FU9kbnMtaXIwLTgxZTUtZDhjMmQ3M2ItODVlZS00ODIyLTg1YTQtMjYwYTQyOTkxYTk4Lndlc3RldXJvcGUuY2xvdWRhcHAuYXp1cmUuY29t"
+
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+[Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: LISTEN
+[Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+[Info   : Unity Log] 05/10/2026 16:39:47: Stopping build thread
 
