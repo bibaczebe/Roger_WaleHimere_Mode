@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1 (BUG 1) — Force PvP on globally
+
+- **Problem**: po E2E z drugim peerem damage między graczami spoza klanu nie przechodzi. Vanilla domyślnie ma `Player.m_pvp = false` per gracz, sterowany w UI mapy. Klanowy filtr w `FriendlyFirePatch` (v1.0 step 7) zeruje damage **tylko** między klanowiczami — ale samo PvP musi być on na obu stronach żeby `Character.RPC_Damage` w ogóle aplikował damage.
+- `src\Client\Patches\ForcePvpPatch.cs` — `[HarmonyPostfix]` na `Player.IsPVPEnabled` (NIE `Character.IsPVPEnabled` — base jest virtual `return false;`, a `Player.IsPVPEnabled` to override który czyta `m_pvp` lub `ZDO.GetBool(ZDOVars.s_pvp)`; patch na bazie nie odpalłby się dla Playerów). Postfix wymusza `__result = true` bezwarunkowo. Vanilla `SetPVP` toggle w mapie dalej działa (komunikat + ZDO write), ale każdy caller pytający przez `IsPVPEnabled` dostaje `true`.
+- Lokalizacja `Client/Patches/` (nie `Server/Patches/`) — `IsPVPEnabled` jest wywoływane po obu stronach, patch nie wymaga `IsServer` guarda. Konwencja zgodna z innymi `Client/Patches/` które działają client-side bez side-effects na server.
+- Brak `RegistryReady`/`IsServer` guard — PvP-on globalnie. FF blocking między klanowiczami nadal działa przez istniejący `FriendlyFirePatch`.
+- Znane ograniczenie: gracz może kliknąć PvP-off w mapie i dostanie komunikat `$msg_pvpoff`, ale damage dalej przechodzi. Wizualnie myli, opcjonalna blokada `SetPVP` do rozważenia w v1.2.
+
 ## v0.1.0-step6 — /t channel (chat klanowy)
 
 - `src\Net\ClanRpc.cs` — wypełnione placeholdery z step 4. `OnClanChatServer` parsuje payload i wywołuje `ClanChatServer.Route`. `OnClanChatClient` parsuje i wywołuje `ClanChatClient.Display`. Try/catch z log error w razie zepsutej paczki.
